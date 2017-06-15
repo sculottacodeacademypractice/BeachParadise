@@ -1,0 +1,47 @@
+* {
+  text-align: center;
+  list-style-position:inside;
+}
+body {
+  background-image: url("http://cdn.wallpapersafari.com/46/81/pvKd5f.jpg");
+  background-image: no-repeat;
+}
+p{
+  color: turquoise;
+  width:400px;
+  padding-left:450px;
+}
+h1 {
+  color: darkgreen;
+}
+h1, h2, h3, p, li {
+    font-family: Helvetica, sans-serif;
+}
+
+h2 {
+  color: darkgreen;
+}
+body {
+  display:block;
+}
+h3 {
+  color: seagreen;
+}
+ol {
+  width:180px;
+  padding-left: 575px;
+  list-style:none;
+  margin-top:5px;
+}
+li {
+  margin-top:2px;
+
+}
+a {
+  text-decoration:none;
+  color:white;
+}
+a:hover {
+  text-decoration:underline;
+  color:seagreen;
+}
